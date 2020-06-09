@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874500621867",
+    "firebase_url": "https://gymkhana-iiita-app.firebaseio.com",
+    "project_id": "gymkhana-iiita-app",
+    "storage_bucket": "gymkhana-iiita-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874500621867:android:7bc4bf6a6b361a02af8c6e",
+        "android_client_info": {
+          "package_name": "com.example.gymkhana_iiitaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874500621867-m5s2cgf4catvukgniuop4o0f5cn2dmu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymkhana_iiitaapp",
+            "certificate_hash": "efef0fffa7809d9a8e128ec82fab12afc3c5c308"
+          }
+        },
+        {
+          "client_id": "874500621867-6unp1n8nnvh94l1vlemis8dhjqjbnrqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvc4BqyvePKv3cIPNM9fhilgO5KZkBK60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874500621867-6unp1n8nnvh94l1vlemis8dhjqjbnrqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
